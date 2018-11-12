@@ -1,0 +1,6 @@
+{
+	"port": 8080,
+	"basePath": "/",
+	"bodyLimit": "100kb",
+	"corsHeaders": ["Link"]
+}
